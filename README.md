@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sourjyadipta-das-b8933729a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourjyadipta-das-b8933729a" height="30" width="40" /></a>
 <a href="https://discord.gg/sourjya0172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sourjya0172" height="30" width="40" /></a>
+  <a href="sourjyadiptadas70@gmail.com"/><a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
