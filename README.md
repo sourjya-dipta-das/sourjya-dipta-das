@@ -1,4 +1,4 @@
-![logo](https://imgs.search.brave.com/RPkYt20XONWU_8sJ42Rqcbc4IlTKWyY4aaF0uUfqEcc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/NTg4MTgxOTMyL2Uz/NmVjNjc4LTc5ODQt/NGNkZC04ZTRjLWEz/OTMyNzcyZmY4ZQ)
+![logo]https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 # 💫 About Me:
 Hi 👋, I'm Sourjyadipta das<br>A passionate Software Engineer from India<br> I am a Computer Science Engineering student with a strong interest in software development and emerging technologies.<br>
