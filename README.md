@@ -18,5 +18,5 @@ Hi 👋, I'm Sourjyadipta das<br>A passionate Software Engineer from India<br> I
 ![](https://nirzak-streak-stats.vercel.app/?user=technosnag&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technosnag&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img align="middle" alt="thank you" width="400" src="https://github.com/topics/cool-stuff">
+<img align="middle" alt="thank you" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
