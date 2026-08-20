@@ -1,4 +1,4 @@
-
+![logo](https://i.pinimg.com/originals/8d/8c/83/8d8c83e6fd50045287375032a8797318.gif)
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 # 💫 About Me:
 Hi 👋, I'm Sourjyadipta das<br>A passionate Software Engineer from India<br> I am a Computer Science Engineering student with a strong interest in software development and emerging technologies.<br>
