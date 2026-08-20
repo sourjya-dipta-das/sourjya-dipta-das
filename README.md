@@ -1,4 +1,4 @@
-![logo](https://imgs.search.brave.com/RPkYt20XONWU_8sJ42Rqcbc4IlTKWyY4aaF0uUfqEcc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9yZXBv/c2l0b3J5LWltYWdl/cy5naXRodWJ1c2Vy/Y29udGVudC5jb20v/NTg4MTgxOTMyL2Uz/NmVjNjc4LTc5ODQt/NGNkZC04ZTRjLWEz/OTMyNzcyZmY4ZQ)
+
 <img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 # 💫 About Me:
 Hi 👋, I'm Sourjyadipta das<br>A passionate Software Engineer from India<br> I am a Computer Science Engineering student with a strong interest in software development and emerging technologies.<br>
@@ -18,5 +18,5 @@ Hi 👋, I'm Sourjyadipta das<br>A passionate Software Engineer from India<br> I
 ![](https://nirzak-streak-stats.vercel.app/?user=technosnag&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technosnag&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img align="middle" alt="thank you" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="middle" alt="thank you" width="700" src="https://miro.medium.com/0*Ajh_XwcaEj8DntKp.gif">
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
